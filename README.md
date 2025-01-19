@@ -16,11 +16,6 @@ Typography plays a crucial role in web development and design. This project prov
 - **Typography Practice**: Focus on font families, sizes, weights, and alignments.
 - **HTML & CSS**: Pure HTML and CSS implementation without external frameworks.
 
-## Demo
-
-![Nutrition Label Preview](![Output](https://github.com/user-attachments/assets/46ac929c-f731-4542-b9ba-7f03663210cc)
-)
-
 ## Installation
 
 1. Clone the repository:
