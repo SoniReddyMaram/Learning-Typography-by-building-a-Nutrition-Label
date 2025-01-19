@@ -69,7 +69,7 @@ Contributions are welcome! If you'd like to enhance the project or fix any issue
 
 ## License
 
-This project is licensed under the freeCodeCamp.
+This project is licensed under the freeCodeCamp/SoniReddyMaram.
 
 ## Contact
 
